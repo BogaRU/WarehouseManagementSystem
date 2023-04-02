@@ -1,1 +1,1 @@
-*.dfm linguist-language=C++
+*.dfm linguist-detectable=false
